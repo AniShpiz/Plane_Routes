@@ -1,4 +1,4 @@
-Index,Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
+index,Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
 6162,21317,Air Inuit,,3H,AIE,AIR INUIT,Canada,Yes
 6163,21318,Stabo Air,,4E,SBO,STABAIR,Zambia,Yes
 6164,21319,Interjet,,4O,AIJ,ABC AEROLINEAS,Mexico,No
