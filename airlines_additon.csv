@@ -1,0 +1,22 @@
+Index,Airline ID,Name,Alias,IATA,ICAO,Callsign,Country,Active
+6162,21317,Air Inuit,,3H,AIE,AIR INUIT,Canada,Yes
+6163,21318,Stabo Air,,4E,SBO,STABAIR,Zambia,Yes
+6164,21319,Interjet,,4O,AIJ,ABC AEROLINEAS,Mexico,No
+6165,21320,Gazpromavia,,4G,GZP,GAZPROMAVIA,Russia,Yes
+6166,21321,United Airways,,4H,UBD,UNITED BANGLADESH,Bangladesh,No
+6167,21322,Air Sinai,,4D,ASD,AIR SINAI,Egypt,No
+6168,21323,Aero Transporte S.A.,,4A,,,,
+6169,21324,FlyOne,,5F,FIA,FIVE WINGS,Moldova,Yes
+6170,21325,Cebu Pacific,,5J,CEB,CEBU AIR,Philippines,Yes
+6171,21326,Hi Fly Transportes Aereos,,5K,HFY,SKY FLYER,Portugal,Yes
+6172,21327,ASL Airlines France,,5O,FPO,FRENCH POST,France,Yes
+6173,21328,AeroRepública,,P5,RPB,AEROREPUBLICA,Colombia,Yes
+6174,21329,Pascan Aviation,,P6,PSC,PASCAN,Canada,Yes
+6175,21330,Privilege Style,,P6,PVG,PRIVILEGE,Spain,Yes
+6176,21331,Air Creebec,,YN,CRQ,CREE,Canada,Yes
+6177,21332,Air Nostrum,,YW,ANE,AIR NOSTRUM,Spain,Yes
+6178,21333,Mesa Airlines,,YV,ASH,AIR SHUTTLE,United States,Yes
+6179,21334,Montenegro Airlines,,YM,MGX,MONTENEGRO,Montenegro,No
+6180,21335,Air Moldova,,9U,MLD,AIR MOLDOVA,Moldova,Yes
+6181,21336,Flynas,,XY,KNE,NAS EXPRESS,Saudi Arabia,Yes
+6182,21337,Air Corsica,,XK,CCM,CORSICA,France,Yes
