@@ -3,7 +3,7 @@ IATA code,Name,ICAO code
 141,BAe 146-100,B461
 142,BAe 146-200,B462
 143,BAe 146-300,B463
-146,BAe 146,\N
+146,BAe 146,
 290,Embraer E190-E2,E290
 295,Embraer E195-E2,E295
 310,Airbus A310,A310
@@ -14,32 +14,32 @@ IATA code,Name,ICAO code
 321,Airbus A321,A321
 32N,Airbus A320neo,A20N
 32Q,Airbus A321neo,A21N
-330,Airbus A330,\N
+330,Airbus A330,
 332,Airbus A330-200,A332
 333,Airbus A330-300,A333
 338,Airbus A330-800neo,A338
 339,Airbus A330-900neo,A339
-340,Airbus A340,\N
+340,Airbus A340,
 342,Airbus A340-200,A342
 343,Airbus A340-300,A343
 345,Airbus A340-500,A345
 346,Airbus A340-600,A346
-350,Airbus A350,\N
+350,Airbus A350,
 351,Airbus A350-1000,A35K
 359,Airbus A350-900,A359
-380,Airbus A380,\N
+380,Airbus A380,
 388,Airbus A380-800,A388
 703,Boeing 707,B703
 717,Boeing 717,B712
 721,Boeing 727-100,B721
 722,Boeing 727-200,B722
-727,Boeing 727,\N
+727,Boeing 727,
 732,Boeing 737-200,B732
 733,Boeing 737-300,B733
 734,Boeing 737-400,B734
 735,Boeing 737-500,B735
 736,Boeing 737-600,B736
-737,Boeing 737,\N
+737,Boeing 737,
 738,Boeing 737-800,B738
 739,Boeing 737-900,B739
 73G,Boeing 737-700,B737
@@ -47,7 +47,7 @@ IATA code,Name,ICAO code
 742,Boeing 747-200,B742
 743,Boeing 747-300,B743
 744,Boeing 747-400,B744
-747,Boeing 747,\N
+747,Boeing 747,
 748,Boeing 747-8,B748
 74B,Boeing 747 LCF Dreamlifter,BLCF
 74J,Boeing 747-400D,B74D
@@ -55,26 +55,26 @@ IATA code,Name,ICAO code
 74R,Boeing 747SR,B74R
 752,Boeing 757-200,B752
 753,Boeing 757-300,B753
-757,Boeing 757,\N
+757,Boeing 757,
 762,Boeing 767-200,B762
 763,Boeing 767-300,B763
 764,Boeing 767-400,B764
-767,Boeing 767,\N
+767,Boeing 767,
 772,Boeing 777-200,B772
 773,Boeing 777-300,B773
-777,Boeing 777,\N
+777,Boeing 777,
 778,Boeing 777-8,B778
 779,Boeing 777-9,B779
 77L,Boeing 777-200LR,B77L
 77W,Boeing 777-300ER,B77W
-787,Boeing 787,\N
+787,Boeing 787,
 788,Boeing 787-8,B788
 789,Boeing 787-9,B789
 78J,Boeing 787-10,B78X
 7M7,Boeing 737 MAX 7,B37M
 7M8,Boeing 737 MAX 8,B38M
 7M9,Boeing 737 MAX 9,B39M
-7MJ,Boeing 737 MAX 10,\N
+7MJ,Boeing 737 MAX 10,
 A25,Antonov An-225 Mriya,A225
 A26,Antonov AN-26,AN26
 A28,Antonov AN-28,AN28
@@ -149,7 +149,7 @@ DHP,De Havilland Canada DHC-2 Beaver,DHC2
 DHR,De Havilland Canada DHC-2 Turbo-Beaver,DH2T
 DHT,De Havilland Canada DHC-6 Twin Otter,DHC6
 E70,Embraer 170,E170
-E75,Embraer 175,\N
+E75,Embraer 175,
 E7W,Embraer 175 (long wing),E75L
 E90,Embraer 190,E190
 E95,Embraer 195,E195
